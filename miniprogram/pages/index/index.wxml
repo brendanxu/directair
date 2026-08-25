@@ -1,0 +1,3 @@
+<!-- pages/index/index.wxml -->
+<!-- 内嵌 DirectAir 响应式移动端体验 -->
+<web-view src="{{directAirUrl}}"></web-view>

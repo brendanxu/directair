@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#07090E",
+    "navigationBarTitleText": "直航 DirectAir",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#07090E"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
