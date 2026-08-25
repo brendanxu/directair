@@ -2,7 +2,7 @@
   "miniprogramRoot": "./",
   "projectname": "DirectAir-MiniProgram",
   "description": "直航 DirectAir 微信小程序真机测试外壳",
-  "appid": "touristappid",
+  "appid": "wx28904b424e40fd91",
   "setting": {
     "urlCheck": false,
     "es6": true,
